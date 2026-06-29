@@ -181,11 +181,11 @@ date,repo,domaine,ville,activite,titre,article,statut
 2026-07-15T11:34:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,"Enterrement de vie de célibataire à Lille : surprendre le groupe, nos astuces originales",article-11,pushed
 2026-07-15T12:23:00.000Z,team-square-escape-game-hdf,escapegame-hautsdefrance.fr,les Hauts-de-France,Escape Game,Escape Game dans les Hauts-de-France : à partir de quel âge et combien de joueurs ?,article-12,pushed
 2026-07-15T13:12:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,"EVJF dans les Hauts-de-France : surprendre le groupe, nos astuces originales",article-11,pushed
-2026-07-15T14:01:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de hache dans les Hauts-de-France : à partir de quel âge et combien de joueurs ?,,planned
-2026-07-15T15:50:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Organiser un mariage dans les Hauts-de-France : le guide complet,,planned
-2026-07-15T16:39:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,Jour de pluie à Arras ? Le quiz en salle est la solution,,planned
-2026-07-15T17:28:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité virtuelle dans les Hauts-de-France : à partir de quel âge et combien de joueurs ?,,planned
-2026-07-15T18:17:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Séminaire à Lille : indoor ou outdoor pour vos équipes ?,,planned
+2026-07-15T14:01:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de hache dans les Hauts-de-France : à partir de quel âge et combien de joueurs ?,article-13,pushed
+2026-07-15T15:50:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Organiser un mariage dans les Hauts-de-France : le guide complet,article-10,pushed
+2026-07-15T16:39:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,Jour de pluie à Arras ? Le quiz en salle est la solution,article-10,pushed
+2026-07-15T17:28:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité virtuelle dans les Hauts-de-France : à partir de quel âge et combien de joueurs ?,article-10,pushed
+2026-07-15T18:17:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Séminaire à Lille : indoor ou outdoor pour vos équipes ?,article-11,pushed
 2026-07-15T19:06:00.000Z,team-square-teambuilding-douai,teambuilding-douai.fr,Douai,Team Building,Team Building à Douai : demi-journée ou journée complète ?,,planned
 2026-07-16T08:14:00.000Z,team-square-actiongame-hdf,actiongame-hautdefrance.fr,les Hauts-de-France,Action Game,Jour de pluie dans les Hauts-de-France ? L'action game en salle est la solution,,planned
 2026-07-16T09:03:00.000Z,team-square-activite-lille,activites-lille.fr,Lille,Activités,Activités à Lille : à partir de quel âge et combien de joueurs ?,,planned
