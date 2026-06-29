@@ -3,7 +3,8 @@
 import csv, os, re, sys, subprocess, tempfile, shutil, datetime, random
 BASE = os.path.dirname(os.path.abspath(__file__))
 TOKEN_FILE = os.path.join(BASE, "jeton-github.txt")
-RESERVOIR  = os.path.join(BASE, "..", "reservoir-articles.csv")
+RESERVOIR  = os.path.join(BASE, "reservoir-articles.csv")
+if not os.path.exists(RESERVOIR): RESERVOIR = os.path.join(BASE, "..", "reservoir-articles.csv")
 LOG        = os.path.join(BASE, "journal-publication.txt")
 N = int(sys.argv[1]) if len(sys.argv) > 1 else 6
 ORG = "TS-TeamSquare"; TS = "https://team-square.fr/"

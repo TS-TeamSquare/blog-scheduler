@@ -23,8 +23,10 @@ sys.argv_backup=sys.argv[:]; sys.argv=[sys.argv[0]]
 sys.path.insert(0, BASE)
 import publisher as P
 sys.argv=sys.argv_backup
-RES=os.path.join(BASE,"..","reservoir-articles.csv")
-CAL=os.path.join(BASE,"..","calendrier-publication.csv")
+RES=os.path.join(BASE,"reservoir-articles.csv")
+if not os.path.exists(RES): RES=os.path.join(BASE,"..","reservoir-articles.csv")
+CAL=os.path.join(BASE,"calendrier-publication.csv")
+if not os.path.exists(CAL): CAL=os.path.join(BASE,"..","calendrier-publication.csv")
 
 def parse_args():
     ap=argparse.ArgumentParser()
