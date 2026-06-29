@@ -1,0 +1,42 @@
+name: Redeploy blogs satellites (publication programmée)
+
+on:
+  schedule:
+    - cron: '0 * * * *'        # TOUTES LES HEURES — révèle chaque site à son créneau horaire unique
+  workflow_dispatch: {}        # déclenchement manuel possible
+
+permissions:
+  contents: write              # pour récrire calendrier-publication.csv dans ce repo
+
+concurrency:
+  group: redeploy-blogs
+  cancel-in-progress: false
+
+jobs:
+  redeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (repo planificateur)
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Redéployer les sites dont un article est dû aujourd'hui
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}   # PAT avec push sur l'org TS-TeamSquare (= jeton d'automatisation existant)
+        run: python3 redeploy_due.py
+
+      - name: Sauvegarder les statuts (calendrier)
+        run: |
+          if [ -n "$(git status --porcelain calendrier-publication.csv)" ]; then
+            git config user.name "blog-scheduler"
+            git config user.email "teamsquare.ai@gmail.com"
+            git add calendrier-publication.csv
+            git commit -m "cron: maj statuts deployed ($(date -u +%F))"
+            git push
+          else
+            echo "Aucun changement de statut."
+          fi
