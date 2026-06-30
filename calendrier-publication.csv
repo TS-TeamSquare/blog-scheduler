@@ -1,10 +1,10 @@
 date,repo,domaine,ville,label,activite,fiche,angle,statut
-2026-07-02T10:12:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,1,planned
-2026-07-02T11:37:00.000Z,team-square-mariage-lille,mariage-lille.fr,Lille,Mariage,Mariage (TS Events),,1,planned
-2026-07-02T12:00:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,1,planned
-2026-07-02T12:12:00.000Z,team-square-actiongame-douai,actiongame-douai.fr,Douai,Action Game,Cube Challenge,cube-challenge,1,planned
-2026-07-02T15:42:00.000Z,team-square-bubblefoot-lille,bubblefoot-lille.fr,Lille,Bubble Foot,Bubble Foot,bubble-foot,1,planned
-2026-07-02T18:12:00.000Z,team-square-lancerdehaches-arras,lancerdehaches-arras.fr,Arras,Lancer de hache,Lancer de Hache,lancer-de-hache,1,planned
+2026-07-02T10:12:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,1,pushed
+2026-07-02T11:37:00.000Z,team-square-mariage-lille,mariage-lille.fr,Lille,Mariage,Mariage (TS Events),,1,pushed
+2026-07-02T12:00:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,1,pushed
+2026-07-02T12:12:00.000Z,team-square-actiongame-douai,actiongame-douai.fr,Douai,Action Game,Cube Challenge,cube-challenge,1,pushed
+2026-07-02T15:42:00.000Z,team-square-bubblefoot-lille,bubblefoot-lille.fr,Lille,Bubble Foot,Bubble Foot,bubble-foot,1,pushed
+2026-07-02T18:12:00.000Z,team-square-lancerdehaches-arras,lancerdehaches-arras.fr,Arras,Lancer de hache,Lancer de Hache,lancer-de-hache,1,pushed
 2026-07-02T18:37:00.000Z,team-square-evg-hdf,evg-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,1,planned
 2026-07-03T09:37:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,1,planned
 2026-07-03T11:07:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,1,planned
