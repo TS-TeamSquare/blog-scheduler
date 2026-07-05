@@ -19,12 +19,12 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-04T17:07:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,1,deployed
 2026-07-04T17:31:00.000Z,team-square-locationdesalles-lille,locationdesalles-lille.fr,Lille,Location de salles,Location de salles,,1,deployed
 2026-07-04T18:18:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,1,deployed
-2026-07-05T10:37:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,1,pushed
-2026-07-05T10:54:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,1,pushed
-2026-07-05T11:54:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,1,pushed
-2026-07-05T14:00:00.000Z,team-square-simuateurdevol-douai,simulateurdevol-douai.fr,Douai,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,1,pushed
-2026-07-05T14:18:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,1,pushed
-2026-07-05T14:31:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,1,pushed
+2026-07-05T10:37:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,1,deployed
+2026-07-05T10:54:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,1,deployed
+2026-07-05T11:54:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,1,deployed
+2026-07-05T14:00:00.000Z,team-square-simuateurdevol-douai,simulateurdevol-douai.fr,Douai,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,1,deployed
+2026-07-05T14:18:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,1,deployed
+2026-07-05T14:31:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,1,deployed
 2026-07-05T16:49:00.000Z,team-square-evg-lille,evg-lille.fr,Lille,EVG,EVG,,1,pushed
 2026-07-06T09:00:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,1,pushed
 2026-07-06T11:54:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,1,pushed
