@@ -26,9 +26,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-05T14:18:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,1,deployed
 2026-07-05T14:31:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,1,deployed
 2026-07-05T16:49:00.000Z,team-square-evg-lille,evg-lille.fr,Lille,EVG,EVG,,1,deployed
-2026-07-06T09:00:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,1,pushed
-2026-07-06T11:54:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,1,pushed
-2026-07-06T12:31:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,1,pushed
+2026-07-06T09:00:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,1,deployed
+2026-07-06T11:54:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,1,deployed
+2026-07-06T12:31:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,1,deployed
 2026-07-06T13:23:00.000Z,team-square-activite-lens,activites-lens.fr,Lens,Activités,Panorama 23 activites,,1,pushed
 2026-07-06T15:31:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,1,pushed
 2026-07-07T09:42:00.000Z,team-square-espacedereception-hdf,espacedereception-hautsdefrance.fr,les Hauts-de-France,Espace de réception,Espace de reception,,1,pushed
