@@ -41,9 +41,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-07T16:42:00.000Z,team-square-teambuilding-douai,teambuilding-douai.fr,Douai,Team Building,Team Building,,1,deployed
 2026-07-07T17:12:00.000Z,team-square-bapteme-lille,bapteme-lille.fr,Lille,Baptême,Bapteme (TS Events),,1,deployed
 2026-07-07T17:54:00.000Z,team-square-realitevirtuelle-lille,realitevirtuelle-lille.fr,Lille,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,1,deployed
-2026-07-08T10:12:00.000Z,team-square-seminaire-douai,seminaire-douai.fr,Douai,Séminaire,Seminaire,,1,pushed
-2026-07-08T10:31:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,1,pushed
-2026-07-08T10:37:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,1,pushed
+2026-07-08T10:12:00.000Z,team-square-seminaire-douai,seminaire-douai.fr,Douai,Séminaire,Seminaire,,1,deployed
+2026-07-08T10:31:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,1,deployed
+2026-07-08T10:37:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,1,deployed
 2026-07-08T16:49:00.000Z,team-square-activite-lille,activites-lille.fr,Lille,Activités,Panorama 23 activites,,1,pushed
 2026-07-08T17:37:00.000Z,team-square-teambuilding-lens,teambuilding-lens.fr,Lens,Team Building,Team Building,,1,pushed
 2026-07-08T17:42:00.000Z,team-square-activite-arras,activites-arras.fr,Arras,Activités,Panorama 23 activites,,1,pushed
