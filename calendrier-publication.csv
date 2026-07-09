@@ -50,9 +50,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-08T17:49:00.000Z,team-square-realitevirtuelle-arras,realitevirtuelle-arras.fr,Arras,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,1,deployed
 2026-07-08T18:18:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,1,deployed
 2026-07-08T18:54:00.000Z,team-square-communion-lille,communion-lille.fr,Lille,Communion,Communion (TS Events),,1,deployed
-2026-07-09T13:42:00.000Z,team-square-simuateurdevol-lens,simulateurdevol-lens.fr,Lens,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,1,pushed
-2026-07-09T15:42:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,1,pushed
-2026-07-09T15:42:00.000Z,team-square-activite-douai,activites-douai.fr,Douai,Activités,Panorama 23 activites,,1,pushed
+2026-07-09T13:42:00.000Z,team-square-simuateurdevol-lens,simulateurdevol-lens.fr,Lens,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,1,deployed
+2026-07-09T15:42:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,1,deployed
+2026-07-09T15:42:00.000Z,team-square-activite-douai,activites-douai.fr,Douai,Activités,Panorama 23 activites,,1,deployed
 2026-07-10T10:37:00.000Z,team-square-teambuilding-arras,teambuilding-arras.fr,Arras,Team Building,Team Building,,1,pushed
 2026-07-10T11:07:00.000Z,team-square-actiongame-hdf,actiongame-hautdefrance.fr,les Hauts-de-France,Action Game,Cube Challenge,cube-challenge,1,pushed
 2026-07-10T12:42:00.000Z,team-square-escape-game-hdf,escapegame-hautsdefrance.fr,les Hauts-de-France,Escape Game,Chasse au Tresor,chasse-au-tresor,1,pushed
