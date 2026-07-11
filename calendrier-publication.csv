@@ -57,8 +57,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-10T11:07:00.000Z,team-square-actiongame-hdf,actiongame-hautdefrance.fr,les Hauts-de-France,Action Game,Cube Challenge,cube-challenge,1,deployed
 2026-07-10T12:42:00.000Z,team-square-escape-game-hdf,escapegame-hautsdefrance.fr,les Hauts-de-France,Escape Game,Chasse au Tresor,chasse-au-tresor,1,deployed
 2026-07-10T17:49:00.000Z,team-square-escape-game-lens,escapegame-lens.fr,Lens,Escape Game,Chasse au Tresor,chasse-au-tresor,1,deployed
-2026-07-11T11:37:00.000Z,team-square-bubblefoot-lens,bubblefoot-lens.fr,Lens,Bubble Foot,Bubble Foot,bubble-foot,1,pushed
-2026-07-11T13:49:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,1,pushed
+2026-07-11T11:37:00.000Z,team-square-bubblefoot-lens,bubblefoot-lens.fr,Lens,Bubble Foot,Bubble Foot,bubble-foot,1,deployed
+2026-07-11T13:49:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,1,deployed
 2026-07-11T17:07:00.000Z,team-square-activite-hdf,activites-hautsdefrance.fr,les Hauts-de-France,Activités,Panorama 23 activites,,1,pushed
 2026-07-11T18:07:00.000Z,team-square-enterrementviejeunefille-hdf,enterrementviejeunefille-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,1,pushed
 2026-07-12T09:49:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,1,pushed
