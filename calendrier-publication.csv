@@ -59,8 +59,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-10T17:49:00.000Z,team-square-escape-game-lens,escapegame-lens.fr,Lens,Escape Game,Chasse au Tresor,chasse-au-tresor,1,deployed
 2026-07-11T11:37:00.000Z,team-square-bubblefoot-lens,bubblefoot-lens.fr,Lens,Bubble Foot,Bubble Foot,bubble-foot,1,deployed
 2026-07-11T13:49:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,1,deployed
-2026-07-11T17:07:00.000Z,team-square-activite-hdf,activites-hautsdefrance.fr,les Hauts-de-France,Activités,Panorama 23 activites,,1,pushed
-2026-07-11T18:07:00.000Z,team-square-enterrementviejeunefille-hdf,enterrementviejeunefille-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,1,pushed
+2026-07-11T17:07:00.000Z,team-square-activite-hdf,activites-hautsdefrance.fr,les Hauts-de-France,Activités,Panorama 23 activites,,1,deployed
+2026-07-11T18:07:00.000Z,team-square-enterrementviejeunefille-hdf,enterrementviejeunefille-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,1,deployed
 2026-07-12T09:49:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,1,pushed
 2026-07-12T13:31:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,1,pushed
 2026-07-12T14:12:00.000Z,team-square-paintball-lille,lille-paintball.fr,Lille,Paintball,Paintball,paintball,1,pushed
