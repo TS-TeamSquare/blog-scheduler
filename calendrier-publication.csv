@@ -69,8 +69,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-13T16:42:00.000Z,team-square-actiongame-lens,actiongame-lens.fr,Lens,Action Game,Cube Challenge,cube-challenge,1,deployed
 2026-07-13T17:54:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,1,deployed
 2026-07-13T18:07:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,1,deployed
-2026-07-14T09:42:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,1,pushed
-2026-07-14T12:00:00.000Z,team-square-mariage-lille,mariage-lille.fr,Lille,Mariage,Mariage (TS Events),,2,pushed
+2026-07-14T09:42:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,1,deployed
+2026-07-14T12:00:00.000Z,team-square-mariage-lille,mariage-lille.fr,Lille,Mariage,Mariage (TS Events),,2,deployed
 2026-07-14T12:23:00.000Z,team-square-bubblefoot-arras,bubblefoot-arras.fr,Arras,Bubble Foot,Bubble Foot,bubble-foot,1,pushed
 2026-07-14T12:31:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,1,pushed
 2026-07-14T12:54:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,1,pushed
