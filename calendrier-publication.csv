@@ -93,7 +93,7 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-16T11:18:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,2,deployed
 2026-07-16T13:18:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,2,deployed
 2026-07-16T16:42:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,2,deployed
-2026-07-16T17:07:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,2,planned
+2026-07-16T17:07:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,2,deployed
 2026-07-17T11:23:00.000Z,team-square-simuateurdevol-douai,simulateurdevol-douai.fr,Douai,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,2,planned
 2026-07-17T13:49:00.000Z,team-square-bubblefoot-lille,bubblefoot-lille.fr,Lille,Bubble Foot,Bubble Foot,bubble-foot,2,planned
 2026-07-17T13:49:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,2,planned
