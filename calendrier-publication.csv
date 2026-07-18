@@ -99,9 +99,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-17T13:49:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,2,deployed
 2026-07-17T15:12:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,2,deployed
 2026-07-17T17:23:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,2,deployed
-2026-07-18T11:07:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,2,planned
-2026-07-18T12:31:00.000Z,team-square-actiongame-douai,actiongame-douai.fr,Douai,Action Game,Cube Challenge,cube-challenge,2,planned
-2026-07-18T14:12:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,2,planned
+2026-07-18T11:07:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,2,deployed
+2026-07-18T12:31:00.000Z,team-square-actiongame-douai,actiongame-douai.fr,Douai,Action Game,Cube Challenge,cube-challenge,2,deployed
+2026-07-18T14:12:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,2,deployed
 2026-07-18T16:42:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,2,planned
 2026-07-18T17:31:00.000Z,team-square-activite-lens,activites-lens.fr,Lens,Activités,Panorama 23 activites,,2,planned
 2026-07-19T09:18:00.000Z,team-square-locationdesalles-lille,locationdesalles-lille.fr,Lille,Location de salles,Location de salles,,2,planned
