@@ -136,12 +136,12 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-24T10:31:00.000Z,team-square-activite-lille,activites-lille.fr,Lille,Activités,Panorama 23 activites,,2,pushed
 2026-07-24T12:00:00.000Z,team-square-espacedereception-hdf,espacedereception-hautsdefrance.fr,les Hauts-de-France,Espace de réception,Espace de reception,,2,pushed
 2026-07-24T12:54:00.000Z,team-square-realitevirtuelle-arras,realitevirtuelle-arras.fr,Arras,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,2,pushed
-2026-07-24T15:18:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,2,planned
-2026-07-24T17:12:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,2,planned
-2026-07-25T14:23:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,2,planned
-2026-07-25T15:18:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,2,planned
-2026-07-25T18:49:00.000Z,team-square-karaoke-lens,karaoke-lens.fr,Lens,Karaoké,Karaoké,karaoke,2,planned
-2026-07-26T11:12:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,2,planned
+2026-07-24T15:18:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,2,pushed
+2026-07-24T17:12:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,2,pushed
+2026-07-25T14:23:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,2,pushed
+2026-07-25T15:18:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,2,pushed
+2026-07-25T18:49:00.000Z,team-square-karaoke-lens,karaoke-lens.fr,Lens,Karaoké,Karaoké,karaoke,2,pushed
+2026-07-26T11:12:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,2,pushed
 2026-07-26T11:23:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,3,planned
 2026-07-26T14:00:00.000Z,team-square-quiz-lens,quiz-lens.fr,Lens,Quiz,iQuiz,iquiz,2,planned
 2026-07-26T14:37:00.000Z,team-square-bubblefoot-lens,bubblefoot-lens.fr,Lens,Bubble Foot,Bubble Foot,bubble-foot,2,planned
