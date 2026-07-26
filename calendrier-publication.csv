@@ -148,12 +148,12 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-26T18:42:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,3,pushed
 2026-07-27T09:42:00.000Z,team-square-activite-douai,activites-douai.fr,Douai,Activités,Panorama 23 activites,,2,pushed
 2026-07-27T14:12:00.000Z,team-square-simuateurdevol-lille,simulateurdevol-lille.fr,Lille,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,3,pushed
-2026-07-27T14:31:00.000Z,team-square-actiongame-hdf,actiongame-hautdefrance.fr,les Hauts-de-France,Action Game,Cube Challenge,cube-challenge,2,planned
-2026-07-27T15:23:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de Hache,lancer-de-hache,2,planned
-2026-07-27T16:31:00.000Z,team-square-escape-game-arras,escapegame-arras.fr,Arras,Escape Game,Chasse au Tresor,chasse-au-tresor,3,planned
-2026-07-27T18:37:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,3,planned
-2026-07-28T10:31:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,3,planned
-2026-07-28T14:37:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,3,planned
+2026-07-27T14:31:00.000Z,team-square-actiongame-hdf,actiongame-hautdefrance.fr,les Hauts-de-France,Action Game,Cube Challenge,cube-challenge,2,pushed
+2026-07-27T15:23:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de Hache,lancer-de-hache,2,pushed
+2026-07-27T16:31:00.000Z,team-square-escape-game-arras,escapegame-arras.fr,Arras,Escape Game,Chasse au Tresor,chasse-au-tresor,3,pushed
+2026-07-27T18:37:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,3,pushed
+2026-07-28T10:31:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,3,pushed
+2026-07-28T14:37:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,3,pushed
 2026-07-28T15:49:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,2,planned
 2026-07-28T17:00:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,2,planned
 2026-07-28T17:23:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,2,planned
