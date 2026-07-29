@@ -158,10 +158,10 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-28T17:00:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,2,deployed
 2026-07-28T17:23:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,2,deployed
 2026-07-29T09:42:00.000Z,team-square-enterrementviejeunefille-lille,enterrementviejeunefille-lille.fr,Lille,EVJF,EVJF,,2,deployed
-2026-07-29T10:54:00.000Z,team-square-simuateurdevol-douai,simulateurdevol-douai.fr,Douai,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,3,pushed
-2026-07-29T11:42:00.000Z,team-square-actiongame-douai,actiongame-douai.fr,Douai,Action Game,Cube Challenge,cube-challenge,3,pushed
-2026-07-29T12:00:00.000Z,team-square-lancerdehaches-arras,lancerdehaches-arras.fr,Arras,Lancer de hache,Lancer de Hache,lancer-de-hache,3,planned
-2026-07-29T13:00:00.000Z,team-square-realitevirtuelle-douai,realitevirtuelle-douai.fr,Douai,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,3,planned
+2026-07-29T10:54:00.000Z,team-square-simuateurdevol-douai,simulateurdevol-douai.fr,Douai,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,3,deployed
+2026-07-29T11:42:00.000Z,team-square-actiongame-douai,actiongame-douai.fr,Douai,Action Game,Cube Challenge,cube-challenge,3,deployed
+2026-07-29T12:00:00.000Z,team-square-lancerdehaches-arras,lancerdehaches-arras.fr,Arras,Lancer de hache,Lancer de Hache,lancer-de-hache,3,deployed
+2026-07-29T13:00:00.000Z,team-square-realitevirtuelle-douai,realitevirtuelle-douai.fr,Douai,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,3,deployed
 2026-07-29T16:23:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,2,planned
 2026-07-29T16:42:00.000Z,team-square-karaoke-douai,karaoke-douai.fr,Douai,Karaoké,Karaoké,karaoke,2,planned
 2026-07-29T17:12:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,2,planned
