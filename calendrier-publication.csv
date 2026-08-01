@@ -178,10 +178,10 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-07-31T13:07:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,3,deployed
 2026-07-31T18:12:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,3,deployed
 2026-07-31T18:42:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,3,deployed
-2026-08-01T09:07:00.000Z,team-square-teambuilding-arras,teambuilding-arras.fr,Arras,Team Building,Team Building,,3,planned
-2026-08-01T09:07:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,2,planned
-2026-08-01T09:42:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,3,planned
-2026-08-01T10:37:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,2,planned
+2026-08-01T09:07:00.000Z,team-square-teambuilding-arras,teambuilding-arras.fr,Arras,Team Building,Team Building,,3,deployed
+2026-08-01T09:07:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,2,deployed
+2026-08-01T09:42:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,3,deployed
+2026-08-01T10:37:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,2,deployed
 2026-08-01T13:18:00.000Z,team-square-anniversaire-hdf,anniversaire-hautsdefrance.fr,les Hauts-de-France,Anniversaire,Anniversaire,,3,planned
 2026-08-01T15:18:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,3,planned
 2026-08-01T16:07:00.000Z,team-square-bubblefoot-arras,bubblefoot-arras.fr,Arras,Bubble Foot,Bubble Foot,bubble-foot,2,planned
