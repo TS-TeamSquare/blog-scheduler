@@ -188,9 +188,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-01T16:23:00.000Z,team-square-teambuilding-douai,teambuilding-douai.fr,Douai,Team Building,Team Building,,3,deployed
 2026-08-01T16:42:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,2,deployed
 2026-08-02T10:42:00.000Z,team-square-lancerdehaches-douai,lancerdehaches-douai.fr,Douai,Lancer de hache,Lancer de Hache,lancer-de-hache,3,deployed
-2026-08-02T11:23:00.000Z,team-square-enterrementviejeunefille-hdf,enterrementviejeunefille-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,3,planned
-2026-08-02T11:42:00.000Z,team-square-karaoke-arras,karaoke-arras.fr,Arras,Karaoké,Karaoké,karaoke,3,planned
-2026-08-02T13:12:00.000Z,team-square-escape-game-lille,escapegame-lille.fr,Lille,Escape Game,Chasse au Tresor,chasse-au-tresor,2,planned
+2026-08-02T11:23:00.000Z,team-square-enterrementviejeunefille-hdf,enterrementviejeunefille-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,3,deployed
+2026-08-02T11:42:00.000Z,team-square-karaoke-arras,karaoke-arras.fr,Arras,Karaoké,Karaoké,karaoke,3,deployed
+2026-08-02T13:12:00.000Z,team-square-escape-game-lille,escapegame-lille.fr,Lille,Escape Game,Chasse au Tresor,chasse-au-tresor,2,deployed
 2026-08-02T15:31:00.000Z,team-square-teambuilding-lens,teambuilding-lens.fr,Lens,Team Building,Team Building,,3,planned
 2026-08-02T16:54:00.000Z,team-square-evg-lille,evg-lille.fr,Lille,EVG,EVG,,3,planned
 2026-08-02T18:42:00.000Z,team-square-activite-hdf,activites-hautsdefrance.fr,les Hauts-de-France,Activités,Panorama 23 activites,,3,planned
