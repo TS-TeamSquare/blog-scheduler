@@ -194,8 +194,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-02T15:31:00.000Z,team-square-teambuilding-lens,teambuilding-lens.fr,Lens,Team Building,Team Building,,3,deployed
 2026-08-02T16:54:00.000Z,team-square-evg-lille,evg-lille.fr,Lille,EVG,EVG,,3,deployed
 2026-08-02T18:42:00.000Z,team-square-activite-hdf,activites-hautsdefrance.fr,les Hauts-de-France,Activités,Panorama 23 activites,,3,deployed
-2026-08-03T10:23:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,3,planned
-2026-08-03T10:49:00.000Z,team-square-escape-game-lens,escapegame-lens.fr,Lens,Escape Game,Chasse au Tresor,chasse-au-tresor,3,planned
+2026-08-03T10:23:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,3,deployed
+2026-08-03T10:49:00.000Z,team-square-escape-game-lens,escapegame-lens.fr,Lens,Escape Game,Chasse au Tresor,chasse-au-tresor,3,deployed
 2026-08-03T13:00:00.000Z,team-square-simuateurdevol-lens,simulateurdevol-lens.fr,Lens,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,3,planned
 2026-08-03T15:00:00.000Z,team-square-activite-lens,activites-lens.fr,Lens,Activités,Panorama 23 activites,,3,planned
 2026-08-03T15:18:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,3,planned
