@@ -203,10 +203,10 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-03T18:31:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,3,deployed
 2026-08-04T09:49:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,3,deployed
 2026-08-04T10:54:00.000Z,team-square-locationdesalles-lille,locationdesalles-lille.fr,Lille,Location de salles,Location de salles,,3,deployed
-2026-08-04T12:37:00.000Z,team-square-realitevirtuelle-lille,realitevirtuelle-lille.fr,Lille,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,3,pushed
-2026-08-04T12:54:00.000Z,team-square-escape-game-hdf,escapegame-hautsdefrance.fr,les Hauts-de-France,Escape Game,Chasse au Tresor,chasse-au-tresor,3,pushed
-2026-08-04T13:31:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,3,pushed
-2026-08-04T13:49:00.000Z,team-square-enterrementviegarcon-hdf,enterrementviegarcon-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,3,pushed
+2026-08-04T12:37:00.000Z,team-square-realitevirtuelle-lille,realitevirtuelle-lille.fr,Lille,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,3,deployed
+2026-08-04T12:54:00.000Z,team-square-escape-game-hdf,escapegame-hautsdefrance.fr,les Hauts-de-France,Escape Game,Chasse au Tresor,chasse-au-tresor,3,deployed
+2026-08-04T13:31:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,3,deployed
+2026-08-04T13:49:00.000Z,team-square-enterrementviegarcon-hdf,enterrementviegarcon-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,3,deployed
 2026-08-04T15:42:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,3,pushed
 2026-08-04T16:07:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,3,pushed
 2026-08-05T12:23:00.000Z,team-square-bubblefoot-lens,bubblefoot-lens.fr,Lens,Bubble Foot,Bubble Foot,bubble-foot,3,planned
