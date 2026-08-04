@@ -207,8 +207,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-04T12:54:00.000Z,team-square-escape-game-hdf,escapegame-hautsdefrance.fr,les Hauts-de-France,Escape Game,Chasse au Tresor,chasse-au-tresor,3,deployed
 2026-08-04T13:31:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,3,deployed
 2026-08-04T13:49:00.000Z,team-square-enterrementviegarcon-hdf,enterrementviegarcon-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,3,deployed
-2026-08-04T15:42:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,3,pushed
-2026-08-04T16:07:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,3,pushed
+2026-08-04T15:42:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,3,deployed
+2026-08-04T16:07:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,3,deployed
 2026-08-05T12:23:00.000Z,team-square-bubblefoot-lens,bubblefoot-lens.fr,Lens,Bubble Foot,Bubble Foot,bubble-foot,3,planned
 2026-08-06T12:12:00.000Z,team-square-seminaire-hdf,hautsdefrance-seminaire.fr,les Hauts-de-France,Séminaire,Seminaire,,3,planned
 2026-08-06T14:12:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de Hache,lancer-de-hache,3,planned
