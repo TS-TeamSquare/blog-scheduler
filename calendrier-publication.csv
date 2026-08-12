@@ -243,9 +243,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-12T15:37:00.000Z,team-square-quizz-lille,quiz-lille.fr,Lille,Quiz,iQuiz,iquiz,3,deployed
 2026-08-12T16:49:00.000Z,team-square-bubblefoot-lille,bubblefoot-lille.fr,Lille,Bubble Foot,Bubble Foot,bubble-foot,4,deployed
 2026-08-12T17:31:00.000Z,team-square-teambuilding-douai,teambuilding-douai.fr,Douai,Team Building,Team Building,,4,deployed
-2026-08-12T18:07:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,4,planned
-2026-08-12T18:07:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,3,planned
-2026-08-12T18:49:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,4,planned
+2026-08-12T18:07:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,4,deployed
+2026-08-12T18:07:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,3,deployed
+2026-08-12T18:49:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,4,deployed
 2026-08-13T09:54:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,3,planned
 2026-08-13T10:31:00.000Z,team-square-enterrementviejeunefille-lille,enterrementviejeunefille-lille.fr,Lille,EVJF,EVJF,,3,planned
 2026-08-13T11:23:00.000Z,team-square-lancerdehaches-douai,lancerdehaches-douai.fr,Douai,Lancer de hache,Lancer de Hache,lancer-de-hache,4,planned
