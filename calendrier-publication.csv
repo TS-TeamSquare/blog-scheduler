@@ -255,8 +255,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-13T14:31:00.000Z,team-square-activite-lens,activites-lens.fr,Lens,Activités,Panorama 23 activites,,4,deployed
 2026-08-13T15:31:00.000Z,team-square-escape-game-arras,escapegame-arras.fr,Arras,Escape Game,Chasse au Tresor,chasse-au-tresor,4,deployed
 2026-08-13T15:37:00.000Z,team-square-simuateurdevol-lens,simulateurdevol-lens.fr,Lens,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,4,deployed
-2026-08-14T10:23:00.000Z,team-square-escape-game-lille,escapegame-lille.fr,Lille,Escape Game,Chasse au Tresor,chasse-au-tresor,3,planned
-2026-08-14T10:37:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,4,planned
+2026-08-14T10:23:00.000Z,team-square-escape-game-lille,escapegame-lille.fr,Lille,Escape Game,Chasse au Tresor,chasse-au-tresor,3,deployed
+2026-08-14T10:37:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,4,deployed
 2026-08-14T13:18:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,4,planned
 2026-08-14T14:42:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,3,planned
 2026-08-14T17:23:00.000Z,team-square-teambuilding-lens,teambuilding-lens.fr,Lens,Team Building,Team Building,,4,planned
