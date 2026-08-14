@@ -259,8 +259,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-14T10:37:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,4,deployed
 2026-08-14T13:18:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,4,deployed
 2026-08-14T14:42:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,3,deployed
-2026-08-14T17:23:00.000Z,team-square-teambuilding-lens,teambuilding-lens.fr,Lens,Team Building,Team Building,,4,planned
-2026-08-14T17:42:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,4,planned
+2026-08-14T17:23:00.000Z,team-square-teambuilding-lens,teambuilding-lens.fr,Lens,Team Building,Team Building,,4,deployed
+2026-08-14T17:42:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,4,deployed
 2026-08-15T12:49:00.000Z,team-square-evg-hdf,evg-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,4,planned
 2026-08-15T12:54:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,4,planned
 2026-08-15T14:07:00.000Z,team-square-realitevirtuelle-lille,realitevirtuelle-lille.fr,Lille,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,4,planned
