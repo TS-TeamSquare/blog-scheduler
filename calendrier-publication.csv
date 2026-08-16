@@ -272,8 +272,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-15T16:49:00.000Z,team-square-karaoke-douai,karaoke-douai.fr,Douai,Karaoké,Karaoké,karaoke,3,deployed
 2026-08-15T17:54:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,4,deployed
 2026-08-16T13:37:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,4,deployed
-2026-08-16T14:37:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,4,planned
-2026-08-16T15:07:00.000Z,team-square-enterrementviegarcon-hdf,enterrementviegarcon-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,4,planned
+2026-08-16T14:37:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,4,deployed
+2026-08-16T15:07:00.000Z,team-square-enterrementviegarcon-hdf,enterrementviegarcon-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,4,deployed
 2026-08-16T15:31:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,3,planned
 2026-08-16T18:42:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,3,planned
 2026-08-17T09:00:00.000Z,team-square-mariage-lille,mariage-lille.fr,Lille,Mariage,Mariage (TS Events),,4,planned
