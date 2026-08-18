@@ -283,8 +283,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-17T13:42:00.000Z,team-square-karaoke-arras,karaoke-arras.fr,Arras,Karaoké,Karaoké,karaoke,4,deployed
 2026-08-18T10:31:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,4,deployed
 2026-08-18T13:37:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,4,deployed
-2026-08-18T13:54:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,3,planned
-2026-08-18T14:31:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,4,planned
+2026-08-18T13:54:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,3,deployed
+2026-08-18T14:31:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,4,deployed
 2026-08-18T15:31:00.000Z,team-square-bapteme-lille,bapteme-lille.fr,Lille,Baptême,Bapteme (TS Events),,4,planned
 2026-08-19T09:07:00.000Z,team-square-teambuilding-arras,teambuilding-arras.fr,Arras,Team Building,Team Building,,4,planned
 2026-08-19T09:37:00.000Z,team-square-karaoke-lens,karaoke-lens.fr,Lens,Karaoké,Karaoké,karaoke,4,planned
