@@ -312,8 +312,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-23T14:23:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,5,deployed
 2026-08-23T14:42:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de Hache,lancer-de-hache,4,deployed
 2026-08-24T10:37:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,4,deployed
-2026-08-24T13:37:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,5,planned
-2026-08-24T13:49:00.000Z,team-square-quiz-lens,quiz-lens.fr,Lens,Quiz,iQuiz,iquiz,4,planned
+2026-08-24T13:37:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,5,deployed
+2026-08-24T13:49:00.000Z,team-square-quiz-lens,quiz-lens.fr,Lens,Quiz,iQuiz,iquiz,4,deployed
 2026-08-24T14:42:00.000Z,team-square-seminaire-hdf,hautsdefrance-seminaire.fr,les Hauts-de-France,Séminaire,Seminaire,,4,planned
 2026-08-25T11:23:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,5,planned
 2026-08-25T12:00:00.000Z,team-square-activite-arras,activites-arras.fr,Arras,Activités,Panorama 23 activites,,4,planned
