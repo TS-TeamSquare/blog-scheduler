@@ -320,7 +320,7 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-25T13:00:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,5,deployed
 2026-08-25T13:12:00.000Z,team-square-escape-game-arras,escapegame-arras.fr,Arras,Escape Game,Chasse au Tresor,chasse-au-tresor,5,deployed
 2026-08-25T15:12:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,4,deployed
-2026-08-25T16:07:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,4,planned
+2026-08-25T16:07:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,4,deployed
 2026-08-25T18:18:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,4,planned
 2026-08-26T09:12:00.000Z,team-square-realitevirtuelle-douai,realitevirtuelle-douai.fr,Douai,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,5,planned
 2026-08-26T13:12:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,5,planned
