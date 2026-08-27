@@ -327,9 +327,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-26T16:23:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,5,deployed
 2026-08-26T18:18:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,5,deployed
 2026-08-26T18:31:00.000Z,team-square-escape-game-lens,escapegame-lens.fr,Lens,Escape Game,Chasse au Tresor,chasse-au-tresor,5,deployed
-2026-08-27T09:37:00.000Z,team-square-simuateurdevol-lille,simulateurdevol-lille.fr,Lille,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,5,pushed
-2026-08-27T13:31:00.000Z,team-square-evg-hdf,evg-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,5,pushed
-2026-08-27T13:37:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,5,pushed
+2026-08-27T09:37:00.000Z,team-square-simuateurdevol-lille,simulateurdevol-lille.fr,Lille,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,5,deployed
+2026-08-27T13:31:00.000Z,team-square-evg-hdf,evg-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,5,deployed
+2026-08-27T13:37:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,5,deployed
 2026-08-27T16:18:00.000Z,team-square-teambuilding-lens,teambuilding-lens.fr,Lens,Team Building,Team Building,,5,pushed
 2026-08-28T09:18:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,5,pushed
 2026-08-28T09:23:00.000Z,team-square-bubblefoot-arras,bubblefoot-arras.fr,Arras,Bubble Foot,Bubble Foot,bubble-foot,4,pushed
