@@ -344,9 +344,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-08-29T11:12:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,5,deployed
 2026-08-29T11:49:00.000Z,team-square-espacedereception-hdf,espacedereception-hautsdefrance.fr,les Hauts-de-France,Espace de réception,Espace de reception,,4,deployed
 2026-08-29T11:54:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,4,deployed
-2026-08-29T14:54:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,4,pushed
-2026-08-29T15:18:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,4,pushed
-2026-08-29T16:18:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,4,pushed
+2026-08-29T14:54:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,4,deployed
+2026-08-29T15:18:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,4,deployed
+2026-08-29T16:18:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,4,deployed
 2026-08-29T18:54:00.000Z,team-square-actiongame-lens,actiongame-lens.fr,Lens,Action Game,Cube Challenge,cube-challenge,4,pushed
 2026-08-30T09:23:00.000Z,team-square-bubblefoot-lille,bubblefoot-lille.fr,Lille,Bubble Foot,Bubble Foot,bubble-foot,5,pushed
 2026-08-30T09:31:00.000Z,team-square-activite-lens,activites-lens.fr,Lens,Activités,Panorama 23 activites,,5,pushed
