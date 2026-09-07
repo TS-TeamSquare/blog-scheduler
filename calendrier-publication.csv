@@ -396,10 +396,10 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-09-06T17:00:00.000Z,team-square-evg-lille,evg-lille.fr,Lille,EVG,EVG,,5,deployed
 2026-09-06T17:42:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,6,deployed
 2026-09-06T18:54:00.000Z,team-square-escape-game-lens,escapegame-lens.fr,Lens,Escape Game,Chasse au Tresor,chasse-au-tresor,6,deployed
-2026-09-07T11:18:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,5,planned
-2026-09-07T11:23:00.000Z,team-square-lancerdehaches-douai,lancerdehaches-douai.fr,Douai,Lancer de hache,Lancer de Hache,lancer-de-hache,6,planned
-2026-09-07T11:49:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,6,planned
-2026-09-07T13:37:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,6,planned
+2026-09-07T11:18:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,5,deployed
+2026-09-07T11:23:00.000Z,team-square-lancerdehaches-douai,lancerdehaches-douai.fr,Douai,Lancer de hache,Lancer de Hache,lancer-de-hache,6,deployed
+2026-09-07T11:49:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,6,deployed
+2026-09-07T13:37:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,6,deployed
 2026-09-07T16:42:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,6,planned
 2026-09-07T17:23:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,5,planned
 2026-09-08T09:37:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,6,planned
