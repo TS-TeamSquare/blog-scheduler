@@ -400,8 +400,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-09-07T11:23:00.000Z,team-square-lancerdehaches-douai,lancerdehaches-douai.fr,Douai,Lancer de hache,Lancer de Hache,lancer-de-hache,6,deployed
 2026-09-07T11:49:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,6,deployed
 2026-09-07T13:37:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,6,deployed
-2026-09-07T16:42:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,6,planned
-2026-09-07T17:23:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,5,planned
+2026-09-07T16:42:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,6,deployed
+2026-09-07T17:23:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,5,deployed
 2026-09-08T09:37:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,6,planned
 2026-09-08T14:07:00.000Z,team-square-simuateurdevol-lille,simulateurdevol-lille.fr,Lille,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,6,planned
 2026-09-08T14:54:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,6,planned
