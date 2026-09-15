@@ -443,10 +443,10 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-09-15T09:07:00.000Z,team-square-enterrementviejeunefille-lille,enterrementviejeunefille-lille.fr,Lille,EVJF,EVJF,,5,deployed
 2026-09-15T10:49:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,6,deployed
 2026-09-15T13:00:00.000Z,team-square-realitevirtuelle-lille,realitevirtuelle-lille.fr,Lille,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,6,deployed
-2026-09-15T13:18:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,6,planned
-2026-09-15T13:23:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,6,planned
-2026-09-15T15:49:00.000Z,team-square-paintball-arras,paintball-arras.fr,Arras,Paintball,Paintball,paintball,6,planned
-2026-09-15T16:07:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,6,planned
+2026-09-15T13:18:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,6,deployed
+2026-09-15T13:23:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,6,deployed
+2026-09-15T15:49:00.000Z,team-square-paintball-arras,paintball-arras.fr,Arras,Paintball,Paintball,paintball,6,deployed
+2026-09-15T16:07:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,6,deployed
 2026-09-16T09:07:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,6,planned
 2026-09-16T10:07:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,5,planned
 2026-09-16T11:23:00.000Z,team-square-karaoke-douai,karaoke-douai.fr,Douai,Karaoké,Karaoké,karaoke,5,planned
