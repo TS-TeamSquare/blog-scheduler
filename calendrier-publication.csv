@@ -463,8 +463,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-09-18T10:49:00.000Z,team-square-escape-game-lens,escapegame-lens.fr,Lens,Escape Game,Chasse au Tresor,chasse-au-tresor,7,deployed
 2026-09-18T13:31:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de Hache,lancer-de-hache,6,deployed
 2026-09-18T18:49:00.000Z,team-square-actiongame-hdf,actiongame-hautdefrance.fr,les Hauts-de-France,Action Game,Cube Challenge,cube-challenge,6,deployed
-2026-09-19T10:12:00.000Z,team-square-karaoke-lens,karaoke-lens.fr,Lens,Karaoké,Karaoké,karaoke,6,planned
-2026-09-19T11:54:00.000Z,team-square-simuateurdevol-douai,simulateurdevol-douai.fr,Douai,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,7,planned
+2026-09-19T10:12:00.000Z,team-square-karaoke-lens,karaoke-lens.fr,Lens,Karaoké,Karaoké,karaoke,6,deployed
+2026-09-19T11:54:00.000Z,team-square-simuateurdevol-douai,simulateurdevol-douai.fr,Douai,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,7,deployed
 2026-09-19T13:12:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,7,planned
 2026-09-19T16:54:00.000Z,team-square-teambuilding-arras,teambuilding-arras.fr,Arras,Team Building,Team Building,,6,planned
 2026-09-19T17:23:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,6,planned
