@@ -469,8 +469,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-09-19T16:54:00.000Z,team-square-teambuilding-arras,teambuilding-arras.fr,Arras,Team Building,Team Building,,6,deployed
 2026-09-19T17:23:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,6,deployed
 2026-09-19T18:42:00.000Z,team-square-communion-lille,communion-lille.fr,Lille,Communion,Communion (TS Events),,6,deployed
-2026-09-20T10:07:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,7,planned
-2026-09-20T10:12:00.000Z,team-square-paintball-lille,lille-paintball.fr,Lille,Paintball,Paintball,paintball,6,planned
+2026-09-20T10:07:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,7,deployed
+2026-09-20T10:12:00.000Z,team-square-paintball-lille,lille-paintball.fr,Lille,Paintball,Paintball,paintball,6,deployed
 2026-09-20T12:12:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,6,planned
 2026-09-20T15:31:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,6,planned
 2026-09-20T18:12:00.000Z,team-square-lancerdehaches-douai,lancerdehaches-douai.fr,Douai,Lancer de hache,Lancer de Hache,lancer-de-hache,7,planned
