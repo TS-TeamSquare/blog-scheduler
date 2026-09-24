@@ -488,9 +488,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-09-23T17:00:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,7,deployed
 2026-09-23T17:00:00.000Z,team-square-simuateurdevol-lille,simulateurdevol-lille.fr,Lille,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,7,deployed
 2026-09-23T17:31:00.000Z,team-square-bubblefoot-lens,bubblefoot-lens.fr,Lens,Bubble Foot,Bubble Foot,bubble-foot,6,deployed
-2026-09-24T09:00:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,7,planned
-2026-09-24T10:12:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,7,planned
-2026-09-24T12:37:00.000Z,team-square-anniversaire-hdf,anniversaire-hautsdefrance.fr,les Hauts-de-France,Anniversaire,Anniversaire,,7,planned
+2026-09-24T09:00:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,7,deployed
+2026-09-24T10:12:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,7,deployed
+2026-09-24T12:37:00.000Z,team-square-anniversaire-hdf,anniversaire-hautsdefrance.fr,les Hauts-de-France,Anniversaire,Anniversaire,,7,deployed
 2026-09-24T16:23:00.000Z,team-square-bubblefoot-arras,bubblefoot-arras.fr,Arras,Bubble Foot,Bubble Foot,bubble-foot,6,planned
 2026-09-24T16:42:00.000Z,team-square-actiongame-lens,actiongame-lens.fr,Lens,Action Game,Cube Challenge,cube-challenge,6,planned
 2026-09-24T18:12:00.000Z,team-square-realitevirtuelle-douai,realitevirtuelle-douai.fr,Douai,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,7,planned
