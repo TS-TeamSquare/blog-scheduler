@@ -507,9 +507,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-09-26T14:18:00.000Z,team-square-escape-game-arras,escapegame-arras.fr,Arras,Escape Game,Chasse au Tresor,chasse-au-tresor,7,deployed
 2026-09-26T14:31:00.000Z,team-square-activite-douai,activites-douai.fr,Douai,Activités,Panorama 23 activites,,6,deployed
 2026-09-26T14:42:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,7,deployed
-2026-09-26T15:49:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,7,planned
-2026-09-26T16:23:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,6,planned
-2026-09-26T18:12:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,7,planned
+2026-09-26T15:49:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,7,deployed
+2026-09-26T16:23:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,6,deployed
+2026-09-26T18:12:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,7,deployed
 2026-09-26T18:31:00.000Z,team-square-actiongame-douai,actiongame-douai.fr,Douai,Action Game,Cube Challenge,cube-challenge,8,planned
 2026-09-27T17:12:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,7,planned
 2026-09-28T10:23:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,6,planned
