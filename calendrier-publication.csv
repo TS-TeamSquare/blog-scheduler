@@ -501,12 +501,12 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-09-25T16:37:00.000Z,team-square-bubblefoot-lille,bubblefoot-lille.fr,Lille,Bubble Foot,Bubble Foot,bubble-foot,7,deployed
 2026-09-25T17:54:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,7,deployed
 2026-09-26T09:18:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,6,deployed
-2026-09-26T11:37:00.000Z,team-square-quizz-lille,quiz-lille.fr,Lille,Quiz,iQuiz,iquiz,6,planned
-2026-09-26T12:23:00.000Z,team-square-realitevirtuelle-arras,realitevirtuelle-arras.fr,Arras,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,6,planned
-2026-09-26T14:12:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,7,planned
-2026-09-26T14:18:00.000Z,team-square-escape-game-arras,escapegame-arras.fr,Arras,Escape Game,Chasse au Tresor,chasse-au-tresor,7,planned
-2026-09-26T14:31:00.000Z,team-square-activite-douai,activites-douai.fr,Douai,Activités,Panorama 23 activites,,6,planned
-2026-09-26T14:42:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,7,planned
+2026-09-26T11:37:00.000Z,team-square-quizz-lille,quiz-lille.fr,Lille,Quiz,iQuiz,iquiz,6,deployed
+2026-09-26T12:23:00.000Z,team-square-realitevirtuelle-arras,realitevirtuelle-arras.fr,Arras,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,6,deployed
+2026-09-26T14:12:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,7,deployed
+2026-09-26T14:18:00.000Z,team-square-escape-game-arras,escapegame-arras.fr,Arras,Escape Game,Chasse au Tresor,chasse-au-tresor,7,deployed
+2026-09-26T14:31:00.000Z,team-square-activite-douai,activites-douai.fr,Douai,Activités,Panorama 23 activites,,6,deployed
+2026-09-26T14:42:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,7,deployed
 2026-09-26T15:49:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,7,planned
 2026-09-26T16:23:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,6,planned
 2026-09-26T18:12:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,7,planned
