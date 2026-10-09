@@ -575,8 +575,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-08T16:00:00.000Z,team-square-anniversaire-hdf,anniversaire-hautsdefrance.fr,les Hauts-de-France,Anniversaire,Anniversaire,,8,deployed
 2026-10-08T16:00:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,7,deployed
 2026-10-08T17:37:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,8,deployed
-2026-10-09T14:23:00.000Z,team-square-bapteme-lille,bapteme-lille.fr,Lille,Baptême,Bapteme (TS Events),,7,planned
-2026-10-09T15:37:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,8,planned
+2026-10-09T14:23:00.000Z,team-square-bapteme-lille,bapteme-lille.fr,Lille,Baptême,Bapteme (TS Events),,7,deployed
+2026-10-09T15:37:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,8,deployed
 2026-10-09T18:18:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,8,planned
 2026-10-10T12:00:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,8,planned
 2026-10-10T12:12:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,8,planned
