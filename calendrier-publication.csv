@@ -578,12 +578,12 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-09T14:23:00.000Z,team-square-bapteme-lille,bapteme-lille.fr,Lille,Baptême,Bapteme (TS Events),,7,deployed
 2026-10-09T15:37:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,8,deployed
 2026-10-09T18:18:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,8,deployed
-2026-10-10T12:00:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,8,planned
-2026-10-10T12:12:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,8,planned
-2026-10-10T14:42:00.000Z,team-square-realitevirtuelle-lille,realitevirtuelle-lille.fr,Lille,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,8,planned
-2026-10-10T14:54:00.000Z,team-square-actiongame-lens,actiongame-lens.fr,Lens,Action Game,Cube Challenge,cube-challenge,7,planned
-2026-10-10T15:00:00.000Z,team-square-lancerdehaches-arras,lancerdehaches-arras.fr,Arras,Lancer de hache,Lancer de Hache,lancer-de-hache,8,planned
-2026-10-10T15:42:00.000Z,team-square-escape-game-hdf,escapegame-hautsdefrance.fr,les Hauts-de-France,Escape Game,Chasse au Tresor,chasse-au-tresor,8,planned
+2026-10-10T12:00:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,8,deployed
+2026-10-10T12:12:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,8,deployed
+2026-10-10T14:42:00.000Z,team-square-realitevirtuelle-lille,realitevirtuelle-lille.fr,Lille,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,8,deployed
+2026-10-10T14:54:00.000Z,team-square-actiongame-lens,actiongame-lens.fr,Lens,Action Game,Cube Challenge,cube-challenge,7,deployed
+2026-10-10T15:00:00.000Z,team-square-lancerdehaches-arras,lancerdehaches-arras.fr,Arras,Lancer de hache,Lancer de Hache,lancer-de-hache,8,deployed
+2026-10-10T15:42:00.000Z,team-square-escape-game-hdf,escapegame-hautsdefrance.fr,les Hauts-de-France,Escape Game,Chasse au Tresor,chasse-au-tresor,8,deployed
 2026-10-11T09:00:00.000Z,team-square-actiongame-douai,actiongame-douai.fr,Douai,Action Game,Cube Challenge,cube-challenge,9,planned
 2026-10-11T09:42:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,8,planned
 2026-10-11T10:00:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,8,planned
