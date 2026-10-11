@@ -591,9 +591,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-11T12:49:00.000Z,team-square-lancerdehaches-douai,lancerdehaches-douai.fr,Douai,Lancer de hache,Lancer de Hache,lancer-de-hache,9,deployed
 2026-10-11T13:12:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,7,deployed
 2026-10-11T13:37:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,7,deployed
-2026-10-11T14:00:00.000Z,team-square-teambuilding-lens,teambuilding-lens.fr,Lens,Team Building,Team Building,,8,planned
-2026-10-11T15:12:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,8,planned
-2026-10-11T18:12:00.000Z,team-square-simuateurdevol-lille,simulateurdevol-lille.fr,Lille,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,8,planned
+2026-10-11T14:00:00.000Z,team-square-teambuilding-lens,teambuilding-lens.fr,Lens,Team Building,Team Building,,8,deployed
+2026-10-11T15:12:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,8,deployed
+2026-10-11T18:12:00.000Z,team-square-simuateurdevol-lille,simulateurdevol-lille.fr,Lille,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,8,deployed
 2026-10-12T10:31:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,8,planned
 2026-10-12T10:49:00.000Z,team-square-escape-game-lille,escapegame-lille.fr,Lille,Escape Game,Chasse au Tresor,chasse-au-tresor,7,planned
 2026-10-12T11:12:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,8,planned
