@@ -594,13 +594,13 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-11T14:00:00.000Z,team-square-teambuilding-lens,teambuilding-lens.fr,Lens,Team Building,Team Building,,8,deployed
 2026-10-11T15:12:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,8,deployed
 2026-10-11T18:12:00.000Z,team-square-simuateurdevol-lille,simulateurdevol-lille.fr,Lille,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,8,deployed
-2026-10-12T10:31:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,8,planned
-2026-10-12T10:49:00.000Z,team-square-escape-game-lille,escapegame-lille.fr,Lille,Escape Game,Chasse au Tresor,chasse-au-tresor,7,planned
-2026-10-12T11:12:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,8,planned
-2026-10-12T13:00:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,7,planned
-2026-10-12T13:12:00.000Z,team-square-realitevirtuelle-douai,realitevirtuelle-douai.fr,Douai,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,8,planned
-2026-10-12T14:42:00.000Z,team-square-karaoke-douai,karaoke-douai.fr,Douai,Karaoké,Karaoké,karaoke,7,planned
-2026-10-12T15:23:00.000Z,team-square-evg-hdf,evg-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,8,planned
+2026-10-12T10:31:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,8,deployed
+2026-10-12T10:49:00.000Z,team-square-escape-game-lille,escapegame-lille.fr,Lille,Escape Game,Chasse au Tresor,chasse-au-tresor,7,deployed
+2026-10-12T11:12:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,8,deployed
+2026-10-12T13:00:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,7,deployed
+2026-10-12T13:12:00.000Z,team-square-realitevirtuelle-douai,realitevirtuelle-douai.fr,Douai,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,8,deployed
+2026-10-12T14:42:00.000Z,team-square-karaoke-douai,karaoke-douai.fr,Douai,Karaoké,Karaoké,karaoke,7,deployed
+2026-10-12T15:23:00.000Z,team-square-evg-hdf,evg-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,8,deployed
 2026-10-13T10:23:00.000Z,team-square-seminaire-hdf,hautsdefrance-seminaire.fr,les Hauts-de-France,Séminaire,Seminaire,,8,planned
 2026-10-13T10:42:00.000Z,team-square-activite-douai,activites-douai.fr,Douai,Activités,Panorama 23 activites,,7,planned
 2026-10-13T14:23:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,7,planned
