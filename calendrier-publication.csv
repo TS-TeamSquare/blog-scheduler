@@ -605,9 +605,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-13T10:42:00.000Z,team-square-activite-douai,activites-douai.fr,Douai,Activités,Panorama 23 activites,,7,deployed
 2026-10-13T14:23:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,7,deployed
 2026-10-13T15:12:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,7,deployed
-2026-10-14T09:49:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,8,planned
-2026-10-14T12:18:00.000Z,team-square-escape-game-arras,escapegame-arras.fr,Arras,Escape Game,Chasse au Tresor,chasse-au-tresor,8,planned
-2026-10-14T12:37:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,8,planned
+2026-10-14T09:49:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,8,deployed
+2026-10-14T12:18:00.000Z,team-square-escape-game-arras,escapegame-arras.fr,Arras,Escape Game,Chasse au Tresor,chasse-au-tresor,8,deployed
+2026-10-14T12:37:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,8,deployed
 2026-10-14T14:49:00.000Z,team-square-karaoke-arras,karaoke-arras.fr,Arras,Karaoké,Karaoké,karaoke,8,planned
 2026-10-14T14:54:00.000Z,team-square-teambuilding-douai,teambuilding-douai.fr,Douai,Team Building,Team Building,,8,planned
 2026-10-14T17:54:00.000Z,team-square-espacedereception-hdf,espacedereception-hautsdefrance.fr,les Hauts-de-France,Espace de réception,Espace de reception,,7,planned
