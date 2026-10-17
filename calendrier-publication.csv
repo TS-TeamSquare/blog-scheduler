@@ -626,8 +626,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-16T18:23:00.000Z,team-square-communion-lille,communion-lille.fr,Lille,Communion,Communion (TS Events),,8,deployed
 2026-10-17T10:12:00.000Z,team-square-evg-lille,evg-lille.fr,Lille,EVG,EVG,,8,deployed
 2026-10-17T10:42:00.000Z,team-square-simuateurdevol-lens,simulateurdevol-lens.fr,Lens,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,8,deployed
-2026-10-17T12:54:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,8,planned
-2026-10-17T14:31:00.000Z,team-square-mariage-lille,mariage-lille.fr,Lille,Mariage,Mariage (TS Events),,8,planned
+2026-10-17T12:54:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,8,deployed
+2026-10-17T14:31:00.000Z,team-square-mariage-lille,mariage-lille.fr,Lille,Mariage,Mariage (TS Events),,8,deployed
 2026-10-17T18:00:00.000Z,team-square-activite-hdf,activites-hautsdefrance.fr,les Hauts-de-France,Activités,Panorama 23 activites,,8,planned
 2026-10-18T09:23:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,8,planned
 2026-10-18T10:12:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,9,planned
