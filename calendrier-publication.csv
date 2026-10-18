@@ -629,11 +629,11 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-17T12:54:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,8,deployed
 2026-10-17T14:31:00.000Z,team-square-mariage-lille,mariage-lille.fr,Lille,Mariage,Mariage (TS Events),,8,deployed
 2026-10-17T18:00:00.000Z,team-square-activite-hdf,activites-hautsdefrance.fr,les Hauts-de-France,Activités,Panorama 23 activites,,8,deployed
-2026-10-18T09:23:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,8,planned
-2026-10-18T10:12:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,9,planned
-2026-10-18T12:12:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,9,planned
-2026-10-18T12:31:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de Hache,lancer-de-hache,8,planned
-2026-10-18T12:54:00.000Z,team-square-enterrementviejeunefille-lille,enterrementviejeunefille-lille.fr,Lille,EVJF,EVJF,,7,planned
+2026-10-18T09:23:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,8,deployed
+2026-10-18T10:12:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,9,deployed
+2026-10-18T12:12:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,9,deployed
+2026-10-18T12:31:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de Hache,lancer-de-hache,8,deployed
+2026-10-18T12:54:00.000Z,team-square-enterrementviejeunefille-lille,enterrementviejeunefille-lille.fr,Lille,EVJF,EVJF,,7,deployed
 2026-10-18T18:37:00.000Z,team-square-escape-game-lens,escapegame-lens.fr,Lens,Escape Game,Chasse au Tresor,chasse-au-tresor,9,planned
 2026-10-19T09:31:00.000Z,team-square-anniversaire-hdf,anniversaire-hautsdefrance.fr,les Hauts-de-France,Anniversaire,Anniversaire,,9,planned
 2026-10-19T09:31:00.000Z,team-square-paintball-lille,lille-paintball.fr,Lille,Paintball,Paintball,paintball,8,planned
