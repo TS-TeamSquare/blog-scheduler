@@ -646,11 +646,11 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-20T14:54:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,9,deployed
 2026-10-20T16:42:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,9,deployed
 2026-10-21T12:31:00.000Z,team-square-lancerdehaches-arras,lancerdehaches-arras.fr,Arras,Lancer de hache,Lancer de Hache,lancer-de-hache,9,deployed
-2026-10-21T14:07:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,9,planned
-2026-10-21T14:42:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,8,planned
-2026-10-21T14:49:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,9,planned
-2026-10-21T16:23:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,8,planned
-2026-10-21T17:23:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,9,planned
+2026-10-21T14:07:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,9,deployed
+2026-10-21T14:42:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,8,deployed
+2026-10-21T14:49:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,9,deployed
+2026-10-21T16:23:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,8,deployed
+2026-10-21T17:23:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,9,deployed
 2026-10-22T11:12:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,8,planned
 2026-10-22T11:42:00.000Z,team-square-activite-lille,activites-lille.fr,Lille,Activités,Panorama 23 activites,,8,planned
 2026-10-22T12:23:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,9,planned
