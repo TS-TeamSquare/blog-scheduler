@@ -651,11 +651,11 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-21T14:49:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,9,deployed
 2026-10-21T16:23:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,8,deployed
 2026-10-21T17:23:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,9,deployed
-2026-10-22T11:12:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,8,planned
-2026-10-22T11:42:00.000Z,team-square-activite-lille,activites-lille.fr,Lille,Activités,Panorama 23 activites,,8,planned
-2026-10-22T12:23:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,9,planned
-2026-10-22T13:23:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,9,planned
-2026-10-22T13:31:00.000Z,team-square-evg-hdf,evg-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,9,planned
+2026-10-22T11:12:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,8,deployed
+2026-10-22T11:42:00.000Z,team-square-activite-lille,activites-lille.fr,Lille,Activités,Panorama 23 activites,,8,deployed
+2026-10-22T12:23:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,9,deployed
+2026-10-22T13:23:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,9,deployed
+2026-10-22T13:31:00.000Z,team-square-evg-hdf,evg-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,9,deployed
 2026-10-22T14:07:00.000Z,team-square-activite-lens,activites-lens.fr,Lens,Activités,Panorama 23 activites,,8,planned
 2026-10-22T14:23:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,8,planned
 2026-10-22T15:12:00.000Z,team-square-actiongame-lens,actiongame-lens.fr,Lens,Action Game,Cube Challenge,cube-challenge,8,planned
