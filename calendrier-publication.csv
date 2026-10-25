@@ -672,9 +672,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-24T11:12:00.000Z,team-square-bapteme-lille,bapteme-lille.fr,Lille,Baptême,Bapteme (TS Events),,8,deployed
 2026-10-24T11:31:00.000Z,team-square-karaoke-arras,karaoke-arras.fr,Arras,Karaoké,Karaoké,karaoke,9,deployed
 2026-10-24T12:12:00.000Z,team-square-paintball-arras,paintball-arras.fr,Arras,Paintball,Paintball,paintball,9,deployed
-2026-10-25T09:07:00.000Z,team-square-activite-arras,activites-arras.fr,Arras,Activités,Panorama 23 activites,,8,planned
-2026-10-25T09:23:00.000Z,team-square-bubblefoot-lens,bubblefoot-lens.fr,Lens,Bubble Foot,Bubble Foot,bubble-foot,8,planned
-2026-10-25T09:49:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,9,planned
+2026-10-25T09:07:00.000Z,team-square-activite-arras,activites-arras.fr,Arras,Activités,Panorama 23 activites,,8,deployed
+2026-10-25T09:23:00.000Z,team-square-bubblefoot-lens,bubblefoot-lens.fr,Lens,Bubble Foot,Bubble Foot,bubble-foot,8,deployed
+2026-10-25T09:49:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,9,deployed
 2026-10-25T11:37:00.000Z,team-square-karaoke-douai,karaoke-douai.fr,Douai,Karaoké,Karaoké,karaoke,8,planned
 2026-10-25T14:07:00.000Z,team-square-simuateurdevol-lille,simulateurdevol-lille.fr,Lille,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,9,planned
 2026-10-25T16:07:00.000Z,team-square-enterrementviejeunefille-hdf,enterrementviejeunefille-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,9,planned
