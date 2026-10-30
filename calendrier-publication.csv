@@ -704,10 +704,10 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-29T15:00:00.000Z,team-square-quizz-lille,quiz-lille.fr,Lille,Quiz,iQuiz,iquiz,9,deployed
 2026-10-29T16:42:00.000Z,team-square-paintball-lille,lille-paintball.fr,Lille,Paintball,Paintball,paintball,9,deployed
 2026-10-29T16:54:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,9,deployed
-2026-10-30T10:54:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,10,planned
-2026-10-30T11:07:00.000Z,team-square-actiongame-hdf,actiongame-hautdefrance.fr,les Hauts-de-France,Action Game,Cube Challenge,cube-challenge,9,planned
-2026-10-30T11:23:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,9,planned
-2026-10-30T13:37:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,8,planned
+2026-10-30T10:54:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,10,deployed
+2026-10-30T11:07:00.000Z,team-square-actiongame-hdf,actiongame-hautdefrance.fr,les Hauts-de-France,Action Game,Cube Challenge,cube-challenge,9,deployed
+2026-10-30T11:23:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,9,deployed
+2026-10-30T13:37:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,8,deployed
 2026-10-30T18:00:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,9,planned
 2026-10-31T12:42:00.000Z,team-square-seminaire-hdf,hautsdefrance-seminaire.fr,les Hauts-de-France,Séminaire,Seminaire,,9,planned
 2026-10-31T13:31:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,8,planned
