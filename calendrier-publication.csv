@@ -713,11 +713,11 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-10-31T13:31:00.000Z,team-square-bapteme-hdf,bapteme-hautsdefrance.fr,les Hauts-de-France,Baptême,Bapteme (TS Events),,8,deployed
 2026-10-31T18:00:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,10,deployed
 2026-10-31T18:49:00.000Z,team-square-teambuilding-douai,teambuilding-douai.fr,Douai,Team Building,Team Building,,9,deployed
-2026-11-01T09:00:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,9,planned
-2026-11-01T10:42:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,10,planned
-2026-11-01T11:00:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,9,planned
-2026-11-01T13:49:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,9,planned
-2026-11-01T14:12:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,10,planned
+2026-11-01T09:00:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,9,deployed
+2026-11-01T10:42:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,10,deployed
+2026-11-01T11:00:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,9,deployed
+2026-11-01T13:49:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,9,deployed
+2026-11-01T14:12:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,10,deployed
 2026-11-02T10:54:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,9,planned
 2026-11-02T11:07:00.000Z,team-square-enterrementviejeunefille-lille,enterrementviejeunefille-lille.fr,Lille,EVJF,EVJF,,8,planned
 2026-11-02T14:31:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,10,planned
