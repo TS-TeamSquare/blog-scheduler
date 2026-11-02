@@ -718,11 +718,11 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-01T11:00:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,9,deployed
 2026-11-01T13:49:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,9,deployed
 2026-11-01T14:12:00.000Z,team-square-communion-hdf,communion-hautsdefrance.fr,les Hauts-de-France,Communion,Communion (TS Events),,10,deployed
-2026-11-02T10:54:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,9,planned
-2026-11-02T11:07:00.000Z,team-square-enterrementviejeunefille-lille,enterrementviejeunefille-lille.fr,Lille,EVJF,EVJF,,8,planned
-2026-11-02T14:31:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,10,planned
-2026-11-02T15:18:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,8,planned
-2026-11-02T15:31:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,10,planned
+2026-11-02T10:54:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,9,deployed
+2026-11-02T11:07:00.000Z,team-square-enterrementviejeunefille-lille,enterrementviejeunefille-lille.fr,Lille,EVJF,EVJF,,8,deployed
+2026-11-02T14:31:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,10,deployed
+2026-11-02T15:18:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,8,deployed
+2026-11-02T15:31:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,10,deployed
 2026-11-02T18:18:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,9,planned
 2026-11-02T18:31:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,9,planned
 2026-11-03T10:54:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,10,planned
