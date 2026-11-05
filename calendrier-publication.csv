@@ -731,10 +731,10 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-04T11:49:00.000Z,team-square-escape-game-lens,escapegame-lens.fr,Lens,Escape Game,Chasse au Tresor,chasse-au-tresor,10,deployed
 2026-11-04T12:42:00.000Z,team-square-anniversaire-hdf,anniversaire-hautsdefrance.fr,les Hauts-de-France,Anniversaire,Anniversaire,,10,deployed
 2026-11-04T16:07:00.000Z,team-square-evg-hdf,evg-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,10,deployed
-2026-11-05T09:00:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,10,planned
-2026-11-05T09:23:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,10,planned
-2026-11-05T09:49:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,10,planned
-2026-11-05T11:42:00.000Z,team-square-realitevirtuelle-arras,realitevirtuelle-arras.fr,Arras,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,9,planned
+2026-11-05T09:00:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,10,deployed
+2026-11-05T09:23:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,10,deployed
+2026-11-05T09:49:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,10,deployed
+2026-11-05T11:42:00.000Z,team-square-realitevirtuelle-arras,realitevirtuelle-arras.fr,Arras,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,9,deployed
 2026-11-05T12:12:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de Hache,lancer-de-hache,9,planned
 2026-11-05T15:18:00.000Z,team-square-escape-game-hdf,escapegame-hautsdefrance.fr,les Hauts-de-France,Escape Game,Chasse au Tresor,chasse-au-tresor,10,planned
 2026-11-05T17:37:00.000Z,team-square-activite-lille,activites-lille.fr,Lille,Activités,Panorama 23 activites,,9,planned
