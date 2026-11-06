@@ -739,11 +739,11 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-05T15:18:00.000Z,team-square-escape-game-hdf,escapegame-hautsdefrance.fr,les Hauts-de-France,Escape Game,Chasse au Tresor,chasse-au-tresor,10,deployed
 2026-11-05T17:37:00.000Z,team-square-activite-lille,activites-lille.fr,Lille,Activités,Panorama 23 activites,,9,deployed
 2026-11-05T18:07:00.000Z,team-square-lancerdehaches-arras,lancerdehaches-arras.fr,Arras,Lancer de hache,Lancer de Hache,lancer-de-hache,10,deployed
-2026-11-06T09:00:00.000Z,team-square-paintball-arras,paintball-arras.fr,Arras,Paintball,Paintball,paintball,10,planned
-2026-11-06T09:00:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,9,planned
-2026-11-06T11:18:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,10,planned
-2026-11-06T13:07:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,9,planned
-2026-11-06T15:42:00.000Z,team-square-activite-lens,activites-lens.fr,Lens,Activités,Panorama 23 activites,,9,planned
+2026-11-06T09:00:00.000Z,team-square-paintball-arras,paintball-arras.fr,Arras,Paintball,Paintball,paintball,10,deployed
+2026-11-06T09:00:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,9,deployed
+2026-11-06T11:18:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,10,deployed
+2026-11-06T13:07:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,9,deployed
+2026-11-06T15:42:00.000Z,team-square-activite-lens,activites-lens.fr,Lens,Activités,Panorama 23 activites,,9,deployed
 2026-11-06T18:37:00.000Z,team-square-activite-arras,activites-arras.fr,Arras,Activités,Panorama 23 activites,,9,planned
 2026-11-07T09:00:00.000Z,team-square-activite-douai,activites-douai.fr,Douai,Activités,Panorama 23 activites,,9,planned
 2026-11-07T10:12:00.000Z,team-square-teambuilding-arras,teambuilding-arras.fr,Arras,Team Building,Team Building,,9,planned
