@@ -751,9 +751,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-07T12:18:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,10,deployed
 2026-11-07T12:42:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,11,deployed
 2026-11-07T16:00:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,10,deployed
-2026-11-08T09:31:00.000Z,team-square-simuateurdevol-lens,simulateurdevol-lens.fr,Lens,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,10,planned
-2026-11-08T10:31:00.000Z,team-square-espacedereception-hdf,espacedereception-hautsdefrance.fr,les Hauts-de-France,Espace de réception,Espace de reception,,9,planned
-2026-11-08T11:12:00.000Z,team-square-bubblefoot-lille,bubblefoot-lille.fr,Lille,Bubble Foot,Bubble Foot,bubble-foot,10,planned
+2026-11-08T09:31:00.000Z,team-square-simuateurdevol-lens,simulateurdevol-lens.fr,Lens,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,10,deployed
+2026-11-08T10:31:00.000Z,team-square-espacedereception-hdf,espacedereception-hautsdefrance.fr,les Hauts-de-France,Espace de réception,Espace de reception,,9,deployed
+2026-11-08T11:12:00.000Z,team-square-bubblefoot-lille,bubblefoot-lille.fr,Lille,Bubble Foot,Bubble Foot,bubble-foot,10,deployed
 2026-11-08T16:07:00.000Z,team-square-realitevirtuelle-lille,realitevirtuelle-lille.fr,Lille,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,10,planned
 2026-11-08T18:42:00.000Z,team-square-actiongame-lens,actiongame-lens.fr,Lens,Action Game,Cube Challenge,cube-challenge,9,planned
 2026-11-09T09:07:00.000Z,team-square-karaoke-douai,karaoke-douai.fr,Douai,Karaoké,Karaoké,karaoke,9,planned
