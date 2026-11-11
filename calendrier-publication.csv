@@ -772,8 +772,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-11T16:18:00.000Z,team-square-karaoke-lens,karaoke-lens.fr,Lens,Karaoké,Karaoké,karaoke,10,deployed
 2026-11-11T16:54:00.000Z,team-square-actiongame-hdf,actiongame-hautdefrance.fr,les Hauts-de-France,Action Game,Cube Challenge,cube-challenge,10,deployed
 2026-11-11T16:54:00.000Z,team-square-escape-game-lille,escapegame-lille.fr,Lille,Escape Game,Chasse au Tresor,chasse-au-tresor,9,deployed
-2026-11-11T17:37:00.000Z,team-square-quizz-lille,quiz-lille.fr,Lille,Quiz,iQuiz,iquiz,10,planned
-2026-11-11T17:49:00.000Z,team-square-bapteme-lille,bapteme-lille.fr,Lille,Baptême,Bapteme (TS Events),,9,planned
+2026-11-11T17:37:00.000Z,team-square-quizz-lille,quiz-lille.fr,Lille,Quiz,iQuiz,iquiz,10,deployed
+2026-11-11T17:49:00.000Z,team-square-bapteme-lille,bapteme-lille.fr,Lille,Baptême,Bapteme (TS Events),,9,deployed
 2026-11-12T14:07:00.000Z,team-square-enterrementviegarcon-hdf,enterrementviegarcon-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,10,planned
 2026-11-12T14:23:00.000Z,team-square-enterrementviejeunefille-hdf,enterrementviejeunefille-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,10,planned
 2026-11-12T15:07:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,10,planned
