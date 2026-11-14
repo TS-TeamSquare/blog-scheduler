@@ -785,14 +785,14 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-13T13:00:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,10,deployed
 2026-11-13T14:18:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,11,deployed
 2026-11-13T17:37:00.000Z,team-square-activite-hdf,activites-hautsdefrance.fr,les Hauts-de-France,Activités,Panorama 23 activites,,10,deployed
-2026-11-14T09:12:00.000Z,team-square-locationdesalles-lille,locationdesalles-lille.fr,Lille,Location de salles,Location de salles,,10,planned
-2026-11-14T09:23:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,10,planned
-2026-11-14T12:12:00.000Z,team-square-seminaire-hdf,hautsdefrance-seminaire.fr,les Hauts-de-France,Séminaire,Seminaire,,10,planned
-2026-11-14T13:18:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,10,planned
-2026-11-14T13:31:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,11,planned
-2026-11-14T13:37:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,9,planned
-2026-11-14T14:00:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,10,planned
-2026-11-14T14:23:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,10,planned
+2026-11-14T09:12:00.000Z,team-square-locationdesalles-lille,locationdesalles-lille.fr,Lille,Location de salles,Location de salles,,10,deployed
+2026-11-14T09:23:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,10,deployed
+2026-11-14T12:12:00.000Z,team-square-seminaire-hdf,hautsdefrance-seminaire.fr,les Hauts-de-France,Séminaire,Seminaire,,10,deployed
+2026-11-14T13:18:00.000Z,team-square-lancerdehaches-lille,lancerdehaches-lille.fr,Lille,Lancer de hache,Lancer de Hache,lancer-de-hache,10,deployed
+2026-11-14T13:31:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,11,deployed
+2026-11-14T13:37:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,9,deployed
+2026-11-14T14:00:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,10,deployed
+2026-11-14T14:23:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,10,deployed
 2026-11-14T17:42:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,11,planned
 2026-11-15T11:07:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,11,planned
 2026-11-15T12:49:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,10,planned
