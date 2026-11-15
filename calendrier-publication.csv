@@ -796,11 +796,11 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-14T17:42:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,11,deployed
 2026-11-15T11:07:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,11,deployed
 2026-11-15T12:49:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,10,deployed
-2026-11-15T13:49:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,11,planned
-2026-11-15T15:07:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,11,planned
-2026-11-15T16:07:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,11,planned
-2026-11-15T16:18:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,9,planned
-2026-11-15T17:18:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,10,planned
+2026-11-15T13:49:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,11,deployed
+2026-11-15T15:07:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,11,deployed
+2026-11-15T16:07:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,11,deployed
+2026-11-15T16:18:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,9,deployed
+2026-11-15T17:18:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,10,deployed
 2026-11-16T11:07:00.000Z,team-square-anniversaire-hdf,anniversaire-hautsdefrance.fr,les Hauts-de-France,Anniversaire,Anniversaire,,11,planned
 2026-11-16T13:54:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,11,planned
 2026-11-16T14:49:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,10,planned
