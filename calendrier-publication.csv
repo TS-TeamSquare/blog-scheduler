@@ -794,8 +794,8 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-14T14:00:00.000Z,team-square-teambuilding-lille,lille-teambuilding.fr,Lille,Team Building,Team Building,,10,deployed
 2026-11-14T14:23:00.000Z,team-square-quiz-douai,quiz-douai.fr,Douai,Quiz,iQuiz,iquiz,10,deployed
 2026-11-14T17:42:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,11,deployed
-2026-11-15T11:07:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,11,planned
-2026-11-15T12:49:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,10,planned
+2026-11-15T11:07:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,11,deployed
+2026-11-15T12:49:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,10,deployed
 2026-11-15T13:49:00.000Z,team-square-anniversaire-lille,anniversaire-lille.fr,Lille,Anniversaire,Anniversaire,,11,planned
 2026-11-15T15:07:00.000Z,team-square-escape-game-douai,escapegame-douai.fr,Douai,Escape Game,Chasse au Tresor,chasse-au-tresor,11,planned
 2026-11-15T16:07:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,11,planned
