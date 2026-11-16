@@ -801,9 +801,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-15T16:07:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,11,deployed
 2026-11-15T16:18:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,9,deployed
 2026-11-15T17:18:00.000Z,team-square-seminaire-lille,lille-seminaire.fr,Lille,Séminaire,Seminaire,,10,deployed
-2026-11-16T11:07:00.000Z,team-square-anniversaire-hdf,anniversaire-hautsdefrance.fr,les Hauts-de-France,Anniversaire,Anniversaire,,11,planned
-2026-11-16T13:54:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,11,planned
-2026-11-16T14:49:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,10,planned
+2026-11-16T11:07:00.000Z,team-square-anniversaire-hdf,anniversaire-hautsdefrance.fr,les Hauts-de-France,Anniversaire,Anniversaire,,11,deployed
+2026-11-16T13:54:00.000Z,team-square-enterrementviegarcon-lille,enterrementviegarcon-lille.fr,Lille,EVG,EVG,,11,deployed
+2026-11-16T14:49:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,10,deployed
 2026-11-16T15:07:00.000Z,team-square-evjf-hdf,evjf-hautsdefrance.fr,les Hauts-de-France,EVJF,EVJF,,10,planned
 2026-11-16T15:37:00.000Z,team-square-paintball-arras,paintball-arras.fr,Arras,Paintball,Paintball,paintball,11,planned
 2026-11-16T16:00:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,10,planned
