@@ -811,9 +811,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-17T10:23:00.000Z,team-square-teambuilding-arras,teambuilding-arras.fr,Arras,Team Building,Team Building,,10,deployed
 2026-11-17T10:31:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,11,deployed
 2026-11-17T16:00:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,10,deployed
-2026-11-17T16:49:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,10,planned
-2026-11-17T17:18:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,10,planned
-2026-11-17T17:37:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,10,planned
+2026-11-17T16:49:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,10,deployed
+2026-11-17T17:18:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,10,deployed
+2026-11-17T17:37:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,10,deployed
 2026-11-18T13:54:00.000Z,team-square-evg-hdf,evg-hautsdefrance.fr,les Hauts-de-France,EVG,EVG,,11,planned
 2026-11-18T14:49:00.000Z,team-square-actiongame-arras,actiongame-arras.fr,Arras,Action Game,Cube Challenge,cube-challenge,11,planned
 2026-11-18T18:12:00.000Z,team-square-paintball-lens,paintball-lens.fr,Lens,Paintball,Paintball,paintball,10,planned
