@@ -808,9 +808,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-16T15:37:00.000Z,team-square-paintball-arras,paintball-arras.fr,Arras,Paintball,Paintball,paintball,11,deployed
 2026-11-16T16:00:00.000Z,team-square-karaoke-hdf,karaoke-hautsdefrance.fr,les Hauts-de-France,Karaoké,Karaoké,karaoke,10,deployed
 2026-11-16T18:23:00.000Z,team-square-bubblefoot-hdf,bubblefoot-hautsdefrance.fr,les Hauts-de-France,Bubble Foot,Bubble Foot,bubble-foot,11,deployed
-2026-11-17T10:23:00.000Z,team-square-teambuilding-arras,teambuilding-arras.fr,Arras,Team Building,Team Building,,10,planned
-2026-11-17T10:31:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,11,planned
-2026-11-17T16:00:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,10,planned
+2026-11-17T10:23:00.000Z,team-square-teambuilding-arras,teambuilding-arras.fr,Arras,Team Building,Team Building,,10,deployed
+2026-11-17T10:31:00.000Z,team-square-actiongame-lille,actiongame-lille.fr,Lille,Action Game,Cube Challenge,cube-challenge,11,deployed
+2026-11-17T16:00:00.000Z,team-square-teambuilding-hdf,teambuilding-hautsdefrance.fr,les Hauts-de-France,Team Building,Team Building,,10,deployed
 2026-11-17T16:49:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,10,planned
 2026-11-17T17:18:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,10,planned
 2026-11-17T17:37:00.000Z,team-square-espacedereception-lille,espacedereception-lille.fr,Lille,Espace de réception,Espace de reception,,10,planned
