@@ -827,9 +827,9 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-20T13:00:00.000Z,team-square-actiongame-lens,actiongame-lens.fr,Lens,Action Game,Cube Challenge,cube-challenge,10,deployed
 2026-11-20T17:18:00.000Z,team-square-realitevirtuelle-arras,realitevirtuelle-arras.fr,Arras,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,10,deployed
 2026-11-21T10:23:00.000Z,team-square-seminaire-arras,seminaire-arras.fr,Arras,Séminaire,Seminaire,,11,deployed
-2026-11-21T12:31:00.000Z,team-square-activite-lens,activites-lens.fr,Lens,Activités,Panorama 23 activites,,10,planned
-2026-11-21T12:54:00.000Z,team-square-communion-lille,communion-lille.fr,Lille,Communion,Communion (TS Events),,10,planned
-2026-11-21T13:31:00.000Z,team-square-bapteme-lille,bapteme-lille.fr,Lille,Baptême,Bapteme (TS Events),,10,planned
+2026-11-21T12:31:00.000Z,team-square-activite-lens,activites-lens.fr,Lens,Activités,Panorama 23 activites,,10,deployed
+2026-11-21T12:54:00.000Z,team-square-communion-lille,communion-lille.fr,Lille,Communion,Communion (TS Events),,10,deployed
+2026-11-21T13:31:00.000Z,team-square-bapteme-lille,bapteme-lille.fr,Lille,Baptême,Bapteme (TS Events),,10,deployed
 2026-11-22T10:31:00.000Z,team-square-lancer-de-hache-hdf,lancerdehaches-hautsdefrance.fr,les Hauts-de-France,Lancer de hache,Lancer de Hache,lancer-de-hache,10,planned
 2026-11-22T10:42:00.000Z,team-square-karaoke-douai,karaoke-douai.fr,Douai,Karaoké,Karaoké,karaoke,10,planned
 2026-11-22T11:07:00.000Z,team-square-bubblefoot-lille,bubblefoot-lille.fr,Lille,Bubble Foot,Bubble Foot,bubble-foot,11,planned
