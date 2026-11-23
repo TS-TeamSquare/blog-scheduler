@@ -836,15 +836,15 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-22T18:37:00.000Z,team-square-escape-game-lens,escapegame-lens.fr,Lens,Escape Game,Chasse au Tresor,chasse-au-tresor,11,deployed
 2026-11-22T18:54:00.000Z,team-square-paintball-lille,lille-paintball.fr,Lille,Paintball,Paintball,paintball,11,deployed
 2026-11-23T10:37:00.000Z,team-square-simulateurdevol-arras,simulateurdevol-arras.fr,Arras,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,11,deployed
-2026-11-23T11:54:00.000Z,team-square-simuateurdevol-lens,simulateurdevol-lens.fr,Lens,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,11,planned
-2026-11-23T13:31:00.000Z,team-square-activite-arras,activites-arras.fr,Arras,Activités,Panorama 23 activites,,10,planned
-2026-11-23T13:31:00.000Z,team-square-activite-lille,activites-lille.fr,Lille,Activités,Panorama 23 activites,,10,planned
-2026-11-23T13:31:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,12,planned
-2026-11-23T14:54:00.000Z,team-square-mariage-lille,mariage-lille.fr,Lille,Mariage,Mariage (TS Events),,11,planned
-2026-11-23T15:18:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,12,planned
-2026-11-23T16:00:00.000Z,team-square-simuateurdevol-douai,simulateurdevol-douai.fr,Douai,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,12,planned
-2026-11-23T18:07:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,12,planned
-2026-11-23T18:31:00.000Z,team-square-activite-hdf,activites-hautsdefrance.fr,les Hauts-de-France,Activités,Panorama 23 activites,,11,planned
+2026-11-23T11:54:00.000Z,team-square-simuateurdevol-lens,simulateurdevol-lens.fr,Lens,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,11,deployed
+2026-11-23T13:31:00.000Z,team-square-activite-arras,activites-arras.fr,Arras,Activités,Panorama 23 activites,,10,deployed
+2026-11-23T13:31:00.000Z,team-square-activite-lille,activites-lille.fr,Lille,Activités,Panorama 23 activites,,10,deployed
+2026-11-23T13:31:00.000Z,team-square-locationdesalles-hdf,locationdesalles-hautsdefrance.fr,les Hauts-de-France,Location de salles,Location de salles,,12,deployed
+2026-11-23T14:54:00.000Z,team-square-mariage-lille,mariage-lille.fr,Lille,Mariage,Mariage (TS Events),,11,deployed
+2026-11-23T15:18:00.000Z,team-square-quiz-arras,quiz-arras.fr,Arras,Quiz,iQuiz,iquiz,12,deployed
+2026-11-23T16:00:00.000Z,team-square-simuateurdevol-douai,simulateurdevol-douai.fr,Douai,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,12,deployed
+2026-11-23T18:07:00.000Z,team-square-enterrementviecelibataire-lille,enterrementviecelibataire-lille.fr,Lille,Enterrement de vie de célibataire,EVG/EVJF generique,,12,deployed
+2026-11-23T18:31:00.000Z,team-square-activite-hdf,activites-hautsdefrance.fr,les Hauts-de-France,Activités,Panorama 23 activites,,11,deployed
 2026-11-24T09:31:00.000Z,team-square-paintball-douai,paintball-douai.fr,Douai,Paintball,Paintball,paintball,12,planned
 2026-11-24T15:07:00.000Z,team-square-bubblefoot-arras,bubblefoot-arras.fr,Arras,Bubble Foot,Bubble Foot,bubble-foot,10,planned
 2026-11-24T16:31:00.000Z,team-square-seminaire-hdf,hautsdefrance-seminaire.fr,les Hauts-de-France,Séminaire,Seminaire,,11,planned
