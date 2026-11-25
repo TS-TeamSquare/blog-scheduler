@@ -853,10 +853,10 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-25T11:00:00.000Z,team-square-quiz-hdf,quiz-hautsdefrance.fr,les Hauts-de-France,Quiz,iQuiz,iquiz,12,deployed
 2026-11-25T11:37:00.000Z,team-square-karaoke-arras,karaoke-arras.fr,Arras,Karaoké,Karaoké,karaoke,11,deployed
 2026-11-25T13:07:00.000Z,team-square-escape-game-lille,escapegame-lille.fr,Lille,Escape Game,Chasse au Tresor,chasse-au-tresor,10,deployed
-2026-11-25T14:18:00.000Z,team-square-espacedereception-hdf,espacedereception-hautsdefrance.fr,les Hauts-de-France,Espace de réception,Espace de reception,,10,planned
-2026-11-25T14:37:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,11,planned
-2026-11-25T16:42:00.000Z,team-square-quiz-lens,quiz-lens.fr,Lens,Quiz,iQuiz,iquiz,10,planned
-2026-11-25T17:00:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,10,planned
+2026-11-25T14:18:00.000Z,team-square-espacedereception-hdf,espacedereception-hautsdefrance.fr,les Hauts-de-France,Espace de réception,Espace de reception,,10,deployed
+2026-11-25T14:37:00.000Z,team-square-lancerdehaches-lens,lancerdehaches-lens.fr,Lens,Lancer de hache,Lancer de Hache,lancer-de-hache,11,deployed
+2026-11-25T16:42:00.000Z,team-square-quiz-lens,quiz-lens.fr,Lens,Quiz,iQuiz,iquiz,10,deployed
+2026-11-25T17:00:00.000Z,team-square-evjf-lille,lille-evjf.fr,Lille,EVJF,EVJF,,10,deployed
 2026-11-26T09:00:00.000Z,team-square-realitevirtuelle-lille,realitevirtuelle-lille.fr,Lille,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,11,planned
 2026-11-26T09:00:00.000Z,team-square-enterrementviecelibataire-hdf,enterrementviecelibataire-hautsdefrance.fr,les Hauts-de-France,Enterrement de vie de célibataire,EVG/EVJF generique,,11,planned
 2026-11-26T11:12:00.000Z,team-square-simuateurdevol-lille,simulateurdevol-lille.fr,Lille,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,11,planned
