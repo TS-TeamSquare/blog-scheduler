@@ -863,13 +863,13 @@ date,repo,domaine,ville,label,activite,fiche,angle,statut
 2026-11-26T12:49:00.000Z,team-square-evg-lille,evg-lille.fr,Lille,EVG,EVG,,11,deployed
 2026-11-26T15:49:00.000Z,team-square-anniversaire-hdf,anniversaire-hautsdefrance.fr,les Hauts-de-France,Anniversaire,Anniversaire,,12,deployed
 2026-11-26T18:31:00.000Z,team-square-paintball-hdf,paintball-hautsdefrance.fr,les Hauts-de-France,Paintball,Paintball,paintball,12,deployed
-2026-11-27T10:23:00.000Z,team-square-lancerdehaches-douai,lancerdehaches-douai.fr,Douai,Lancer de hache,Lancer de Hache,lancer-de-hache,12,planned
-2026-11-27T10:49:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,11,planned
-2026-11-27T10:54:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,10,planned
-2026-11-27T13:37:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,11,planned
-2026-11-27T15:18:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,11,planned
-2026-11-27T15:42:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,12,planned
-2026-11-27T16:23:00.000Z,team-square-seminaire-douai,seminaire-douai.fr,Douai,Séminaire,Seminaire,,10,planned
+2026-11-27T10:23:00.000Z,team-square-lancerdehaches-douai,lancerdehaches-douai.fr,Douai,Lancer de hache,Lancer de Hache,lancer-de-hache,12,deployed
+2026-11-27T10:49:00.000Z,team-square-bubblefoot-douai,bubblefoot-douai.fr,Douai,Bubble Foot,Bubble Foot,bubble-foot,11,deployed
+2026-11-27T10:54:00.000Z,team-square-seminaire-lens,seminaire-lens.fr,Lens,Séminaire,Seminaire,,10,deployed
+2026-11-27T13:37:00.000Z,team-square-realitevirtuelle-lens,realitevirtuelle-lens.fr,Lens,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,11,deployed
+2026-11-27T15:18:00.000Z,team-square-simuateurdevol-hdf,simulateurdevol-hautsdefrance.fr,les Hauts-de-France,Simulateur de vol,Mirage 2000 + Airbus A320,simulateur,11,deployed
+2026-11-27T15:42:00.000Z,team-square-karaoke-lille,karaoke-lille.fr,Lille,Karaoké,Karaoké,karaoke,12,deployed
+2026-11-27T16:23:00.000Z,team-square-seminaire-douai,seminaire-douai.fr,Douai,Séminaire,Seminaire,,10,deployed
 2026-11-27T18:23:00.000Z,team-square-actiongame-douai,actiongame-douai.fr,Douai,Action Game,Cube Challenge,cube-challenge,12,planned
 2026-11-28T09:18:00.000Z,team-square-realitevirtuelle-hdf,realitevirtuelle-hautsdefrance.fr,les Hauts-de-France,Réalité virtuelle,Réalité Virtuelle,realite-virtuelle,11,planned
 2026-11-28T09:49:00.000Z,team-square-mariage-hdf,mariage-hautsdefrance.fr,les Hauts-de-France,Mariage,Mariage (TS Events),,11,planned
